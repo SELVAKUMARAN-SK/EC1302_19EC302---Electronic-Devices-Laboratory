@@ -15,7 +15,9 @@
 ## PN JUNCTION DIODE
 A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
 
-## CIRCUIT DIAGRAM: 
+## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-22 at 20 58 04_3887cc4d](https://github.com/user-attachments/assets/d9dc371d-bd92-4b46-9378-9956e9369bb1)
+
 ## FORWARD BIAS:
 
 ## REVERSE BIAS:
